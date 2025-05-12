@@ -1,0 +1,5 @@
+.tech-center{
+  display: flex;
+  justify-content: center;  /* Horizontally center */
+  margin-top: 20px;         /* Optional spacing */
+}

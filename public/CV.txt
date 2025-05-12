@@ -1,0 +1,43 @@
+Ahmed [Last Name]
+Thunder Bay, ON · ahmed@email.com · github.com/ahmed · linkedin.com/in/ahmed · [portfolio link if available]
+
+Education
+Bachelor of Science in Computer Science
+Lakehead University, Thunder Bay, ON — Expected Graduation: 2026
+
+    Relevant Courses: Data Structures, Web Development, Databases, Computer Security
+
+    Coursework project: Designed a secure login system prototype with basic encryption
+
+Experience
+Freelance Web Developer – Remote (Yemen) — 2023–Present
+
+    Built and deployed responsive websites for small businesses using HTML, CSS, JavaScript, and React
+
+    Designed and maintained lightweight SQL databases for dynamic content
+
+    Communicated directly with clients to gather requirements and provide post-launch support
+
+Technical Skills
+Languages: Python, C++, Java, SQL, HTML, CSS, JavaScript
+Frameworks & Tools: React, Git, GitHub, MySQL, VS Code, Node.js (basic)
+Other: Agile workflow, Basic Cybersecurity, Responsive Design, REST APIs
+
+Projects
+1. Portfolio Website (React + CSS)
+Built a personal portfolio to showcase web development projects with smooth scrolling and dark mode.
+GitHub: [link]
+
+2. Online Quiz App (HTML, CSS, JavaScript)
+Developed a quiz application with dynamic scoring and real-time feedback.
+GitHub: [link]
+
+3. XO Game with AI Agent (C++ using Minimax Algorithm)
+Implemented a console-based Tic-Tac-Toe game where the computer uses the Minimax algorithm to play optimally against the user.
+GitHub: [link]
+
+Additional Information
+
+    Participated in Capture The Flag (CTF) challenges for beginner cybersecurity training
+
+    Open to remote or in-office opportunities across Canada

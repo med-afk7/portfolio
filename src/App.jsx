@@ -3,6 +3,7 @@ import './App.css'
 import Navi from './components/navbar'
 import Card from './components/maincard'
 import Socials from './components/socials'
+import TechStack from './components/technologies'
 
 function App() {
 
@@ -14,6 +15,9 @@ function App() {
     <Card />
 
     <Socials />
+
+
+    <TechStack />
     </>
   )
 }

@@ -7,3 +7,35 @@
 .email{
     padding-right:  10px; ;
 }
+
+.download-link {
+  display: flex;
+  align-items: center;          /* Vertically center icon and text */
+  gap: 10px;                    /* Space between icon and text */
+  padding: 10px 15px;           /* Add padding inside the button */
+  background-color: rgb(255, 255, 255);       
+  color: white;                 /* Text/icon color */
+  text-decoration: none;        
+  border: 2px solid rgb(0, 0, 0);        
+  border-radius: 5px;           /* Optional: Rounded corners */
+  width: fit-content;           /* Prevent full-width stretching */
+  cursor: pointer;              /* Cursor changes to pointer on hover */
+  transition: background-color 0.3s ease;
+  color: black;
+  
+}
+
+.download-link:hover {
+  background-color: darkgrey;   /* Hover effect */
+}
+
+.download-link p {
+  margin: 0;
+}
+
+
+.download-container {
+  display: flex;
+  justify-content: center;  /* Horizontally center */
+  margin-top: 20px;         /* Optional spacing */
+}
