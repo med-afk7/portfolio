@@ -25,14 +25,14 @@ const card = (
   <React.Fragment>
     <CardContent className='card-c'>
       <Typography gutterBottom sx={{ color: 'text.secondary', fontSize: 14 }}>
-        RSA encryption using GMP 
+        GYM APP
       </Typography>
       <Typography variant="h5" component="div">
-       C++ / IMP library
+       HTML/CSS/JS/PHP
       </Typography>
       <Typography sx={{ color: 'text.secondary', mb: 1.5 }}>Discription</Typography>
       <Typography variant="body2">
-       This is a simple encryption and decryption tool that uses RSA.<br/> The GMP library is utilized to handle large number<br></br> calculations, ensuring the security of the information.
+       GYM app that track your workouts and signs you<br/> in to your gym via barcodes , has a working sql database
       </Typography>
     </CardContent>
     <CardActions>
