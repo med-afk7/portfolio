@@ -1,23 +1,26 @@
 import { useState } from 'react'
 import './App.css'
 import Navi from './components/navbar'
-import Card from './components/maincard'
+import Card1 from './components/maincard'
 import Socials from './components/socials'
 import TechStack from './components/technologies'
+import TechCard from './components/techcard'
 
 function App() {
 
 
   return (
     <>
-    <Navi  />
-
-    <Card />
-
+    
+<div className='app-container'>
+    <Card1  />
+   
     <Socials />
 
 
     <TechStack />
+</div>
+   
     </>
   )
 }

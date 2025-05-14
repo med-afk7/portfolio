@@ -1,6 +1,6 @@
+import '../css/maincard.css'
 
-
-function Card(){
+function Card1(){
 
 
 
@@ -8,11 +8,13 @@ function Card(){
 
     return(
         <>
+
+        <div className="card1-container ">
         <h1>Ahmed Arman</h1>
         <h3>software engineer / web developer </h3>
         <h4>📍 Canada </h4>
 
-
+</div>
         
         
         
@@ -21,4 +23,4 @@ function Card(){
 }
 
 
-export  default Card
+export  default Card1
