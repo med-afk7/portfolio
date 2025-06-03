@@ -1,5 +1,5 @@
 .gitbtn {
-    background-color: grey;
+    background-color: #B7410E;
 }
 
 .gitbtn:hover {
@@ -9,3 +9,4 @@
 .gitbtn:active {
   background-color: rgba(0, 0, 255, 0.2);
 }
+

@@ -13,6 +13,7 @@ import nextJsLogo from'../assets/Next.js.png';
 import TailwindLogo from'../assets/Tailwind CSS.png';
 import cppLogo from '../assets/c++.png';
 import javaLogo from '../assets/Java.png'
+import ProjectGrid from "./ProjectGrid";
 
 
 
@@ -57,7 +58,7 @@ function TechStack(){
             case 'Technologies':
                 return <Technologies />;
             case 'Projects':
-                return <Projects />;
+                return <ProjectGrid/>;
             case 'Work-experiance':
                 return <WorkExperience />;
             default:
